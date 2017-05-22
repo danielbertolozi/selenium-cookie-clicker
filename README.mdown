@@ -1,0 +1,11 @@
+# selenium-cookie-clicker
+
+This is a demo for a presentation on Selenium. This script, made in Python 3.5, enters Cookie Clicker and then spams the Big Cookie with clicks, using Selenium.
+
+How-To:
+
+- Clone the repo somewhere
+- Execute `get-latest-chrome-webdriver.sh` and download the appropriate Webdriver version
+- Run Main.py
+
+p.s. Do not support cheating on online games.
