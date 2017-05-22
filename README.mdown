@@ -1,6 +1,6 @@
 # selenium-cookie-clicker
 
-This is a demo for a presentation on Selenium. This script, made in Python 3.5, enters Cookie Clicker and then spams the Big Cookie with clicks, using Selenium.
+This is a demo for a presentation on Selenium. This script, made in Python 3.5, enters Cookie Clicker and then spams the Big Cookie with clicks.
 
 How-To:
 
