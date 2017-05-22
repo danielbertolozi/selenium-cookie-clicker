@@ -5,6 +5,7 @@ This is a demo for a presentation on Selenium. This script, made in Python 3.5, 
 How-To:
 
 - Clone the repo somewhere
+- Ensure to have Selenium Bindings for Python installed (`pip3 install selenium`)
 - Execute `get-latest-chrome-webdriver.sh` and download the appropriate Webdriver version
 - Run Main.py
 
