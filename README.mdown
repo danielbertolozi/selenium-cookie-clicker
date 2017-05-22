@@ -7,6 +7,6 @@ How-To:
 - Clone the repo somewhere
 - Ensure to have Selenium Bindings for Python installed (`pip3 install selenium`)
 - Execute `get-latest-chrome-webdriver.sh` and download the appropriate Webdriver version
-- Run Main.py
+- Run the script: `python3 Main.py [number of clicks]`
 
 p.s. Do not support cheating on online games.
