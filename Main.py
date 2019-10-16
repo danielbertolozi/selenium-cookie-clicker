@@ -1,4 +1,4 @@
-import sys, os
+import sys, os, time
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.chrome.options import Options
@@ -15,6 +15,7 @@ driver.get(url)
 assert "Cookie Clicker" in driver.title, "Not in specified website."
 
 cookie_div = driver.find_element_by_id("bigCookie")
+time.sleep(2)
 
 for i in range(0,clicks):
     cookie_div.click()
